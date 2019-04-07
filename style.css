@@ -24,3 +24,6 @@ ul.hr li {
     width:30px;
     height:30px;
 }
+.d-flex {
+    display: flex;
+}
